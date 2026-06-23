@@ -14,7 +14,6 @@ I am a fourth-year Informatics and Computer Science student at Strathmore Univer
 
 ## Technical Ecosystem
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
 
 ### Core Competencies & Core Stack
 <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge" />
@@ -41,8 +40,10 @@ I am a fourth-year Informatics and Computer Science student at Strathmore Univer
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 **Professional Network:** LinkedIn: www.linkedin.com/in/ivan-musila
+
+
+- 📧 **Direct Contact:** Email: iv.musila@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
