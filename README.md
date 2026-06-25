@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=220&section=header&text=IVAN%20MUSILA&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Building%20Reasoning-Driven%20Software,%20Autonomous%20Agents%20and%20Intelligent%20Applications&descAlignY=58&descColor=67e8f9&animation=fadeIn" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:695308,50:203a43,100:2c5364&height=220&section=header&text=IVAN%20MUSILA&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Building%20Reasoning-Driven%20Software,%20Autonomous%20Agents%20and%20Intelligent%20Applications&descAlignY=58&descColor=67e8f9&animation=fadeIn" /> </p>
 
 <h3 align="center">AI Engineer • Full-Stack Developer • Machine Learning Enthusiast</h3>
 
