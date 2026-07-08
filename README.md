@@ -1,14 +1,14 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,30:1E293B,65:155E75,100:67E8F9&height=200&section=header&text=IVAN%20MUSILA&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Building%20Reasoning-Driven%20Software,%20Autonomous%20Agents%20and%20Intelligent%20Applications&descAlignY=58&descColor=67e8f9&animation=fadeIn" /> </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=300&color=67E8F9&center=true&vCenter=true&width=850&lines=AI+Engineer;Android+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=300&color=67E8F9&center=true&vCenter=true&width=850&lines=AI+Engineer;Fintech+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast"/>
 </p>
 
 <p align="center"> <a href="https://github.com/IvanMusila"> <img src="https://img.shields.io/github/followers/IvanMusila?label=Followers&style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/ivan-musila"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:iv.musila@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 # About Me
 
-I am an AI Engineer and fourth-year Informatics & Computer Science student at Strathmore University with a strong interest in building intelligent software systems that solve real-world problems.
+I am an ML Engineer and fourth-year Informatics & Computer Science student at Strathmore University with a strong interest in building intelligent software systems that solve real-world problems.
 
 My work spans machine learning, autonomous agents, backend architecture, and modern web applications. I enjoy designing systems that move beyond simple automation to reasoning, decision-making, and adaptive intelligence.
 
